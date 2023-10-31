@@ -1,0 +1,24 @@
+button {
+  width: 250px;
+  height: 80px;
+  font-family: "Oswald", sans-serif;
+  font-weight: 600;
+  font-size: 2rem;
+  color: #fff;
+  border: 2px solid #fff;
+  border-radius: 16px;
+  margin: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #00471b;
+}
+
+.botonClic {
+  background-color: #8624e1;
+}
+
+.botonReiniciar {
+  background-color: #e12424;
+}
